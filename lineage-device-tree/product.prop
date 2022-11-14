@@ -1,0 +1,6 @@
+ro.com.google.clientidbase=android-xiaomi
+ro.com.google.clientidbase.ms=android-xiaomi-rev2
+ro.com.google.gmsversion=10_202005
+ro.opa.eligible_device=true
+ro.setupwizard.rotation_locked=true
+setupwizard.theme=glif_v3_light
