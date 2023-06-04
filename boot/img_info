@@ -1,0 +1,14 @@
+kernel=kernel
+ramdisk=ramdisk
+page_size=2048
+dt=dt.img
+kernel_size=21382641
+ramdisk_size=6508751
+dtb_size=1
+base_addr=0x80000000
+kernel_offset=0x00008000
+ramdisk_offset=0x01000000
+tags_offset=0x00000100
+dtbo_offset=0x80000000
+cmd_line='console=ttyHSL0,115200,n8 androidboot.console=ttyHSL0 androidboot.hardware=qcom msm_rtb.filter=0x237 ehci-hcd.park=3 lpm_levels.sleep_disabled=1 androidboot.bootdevice=7824900.sdhci earlycon=msm_hsl_uart,0x78af000 firmware_class.path=/vendor/firmware_mnt/image loop.max_part=7 buildvariant=user veritykeyid=id:5560e7863b4d8118c2f1b065595cf93bb2447992'
+board=""
