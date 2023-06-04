@@ -1,0 +1,20 @@
+## daisy-user 8.1.0 OPM1.171019.019 V9.6.11.0.ODLMIFF release-keys
+- Manufacturer: xiaomi
+- Platform: msm8953
+- Codename: daisy_sprout
+- Brand: xiaomi
+- Flavor: daisy-user
+- Release Version: 8.1.0
+- Kernel Version: 3.18.71
+- Id: OPM1.171019.019
+- Incremental: V9.6.11.0.ODLMIFF
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: true
+- Treble Device: true
+- Locale: en-US
+- Screen Density: undefined
+- Fingerprint: xiaomi/daisy/daisy_sprout:8.1.0/OPM1.171019.019/V9.6.11.0.ODLMIFF:user/release-keys
+- OTA version: 
+- Branch: daisy-user-8.1.0-OPM1.171019.019-V9.6.11.0.ODLMIFF-release-keys
+- Repo: xiaomi_daisy_sprout_dump
